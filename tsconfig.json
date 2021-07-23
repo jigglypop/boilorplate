@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",                  
+    "strict": true, 
+    "esModuleInterop": true,
+    "lib": [
+      "ESNext.String",
+			"dom"
+    ]
+  }
+}
